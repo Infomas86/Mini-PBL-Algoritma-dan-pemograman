@@ -11,4 +11,4 @@ dan format otomatis Rupiah.
 - Format otomatis Rupiah
 
 ## Cara Menjalankan
-python mini\ mini pbl.py
+python mini\ mini_pbl.py
